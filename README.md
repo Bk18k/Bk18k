@@ -16,7 +16,7 @@ Atualmente, estou **em busca da minha primeira oportunidade na área de tecnolog
 
 ## 🐍 Cobrinha do GitHub
 
-![snake gif](https://github.com/brunopereira/brunopereira/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 ---
 
