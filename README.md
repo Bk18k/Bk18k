@@ -25,7 +25,7 @@ Atualmente, estou **em busca da minha primeira oportunidade na área de tecnolog
 - 🎓 Estudante de Engenharia de Software  
 - 💡 Buscando experiências práticas na área  
 - 🚀 Focado em backend, lógica de programação e boas práticas  
-- 📘 Aprendendo: Java, Spring Boot e Git  
+- 📘 Aprendendo: Python,  MySQL
 - 🤝 Aberto a colaborações e mentorias!
 
 ---
