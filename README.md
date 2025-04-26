@@ -1,13 +1,11 @@
 # 👋 Olá! Eu sou o Bruno
 
 Meu nome é **Bruno**, tenho 28 anos e estou no **segundo semestre da faculdade de Engenharia de Software**.
-
 Atualmente, estou **em busca da minha primeira oportunidade na área de tecnologia**, com o objetivo de **aprender, crescer e me desenvolver como profissional**.
 
 ---
 
 ## ⚡ Um pouco mais sobre mim
-
 - 🎓 Estudante de Engenharia de Software  
 - 💡 Buscando experiências práticas na área  
 - 🚀 Focado em backend, lógica de programação e boas práticas  
